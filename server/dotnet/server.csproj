@@ -6,7 +6,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="DotNetEnv" Version="3.1.1" />
+    <PackageReference Include="DotNetEnv" Version="3.2.0" />
     <PackageReference Include="stripe.net" Version="51.1.0" />
   </ItemGroup>
 </Project>
